@@ -3,5 +3,6 @@ Med hjälp av Git kan flera personer arbeta på samma projekt men i olika **bran
 
 ## Några exempel som jag lärt mig:
 - git branch "namn på branch" = skapar en ny branch 
-- git checkout "namn på branch" = byter till den branchen
+- git checkout "namn på branch" = byter till den branchen ➡️
 - git checkout -b "namn på branch"= skapa en ny branch och byt till den branchen direkt 
+![SoExcited~GIF](https://github.com/user-attachments/assets/3ae568ad-c9ad-4023-b18b-199b8be3d773)
